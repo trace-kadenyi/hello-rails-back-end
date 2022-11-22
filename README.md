@@ -38,8 +38,8 @@ $ http://localhost:3000/
 
 👤 **Tracey Kadenyi**
 
- GitHub: [@TracK92](https://github.com/TracK92)
-  LinkedIn: [@Tracey Kadenyi](https://www.linkedin.com/in/Tracey-Kadenyi/)
+- GitHub: [@TracK92](https://github.com/TracK92)
+- LinkedIn: [Tracey Kadenyi](https://www.linkedin.com/in/tracey-kadenyi/)
 
 ## 🤝 Contributing
 
