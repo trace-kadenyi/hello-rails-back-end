@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
-  namespace :v1 do
-    resources :greetings, only: [:index]
+  namespace :api do
+    namespace :v1 do
+      resources :greetings, only: [:index]
+    end
   end
 end
