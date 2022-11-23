@@ -7,7 +7,7 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 Greeting.create(greeting: "Hello there")
-Greeting.create(greeting: "HOla mi amigo")
+Greeting.create(greeting: "Hola mi amigo")
 Greeting.create(greeting: "Bonjour, mon ami")
 Greeting.create(greeting: "Habari yako, rafiki")
 Greeting.create(greeting: "Ciao, cara")
